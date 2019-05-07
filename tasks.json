@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "text": "Move to Europe",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "text": "Todo what to do",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "text": "Come on",
+      "completed": false,
+      "id": 6
+    }
+  ]
+}
